@@ -57,6 +57,6 @@ Forecasting involves using statistical formulas to anticipate future data trends
     * Elton: 
     * Kainen:
 * Slide Deck:
-    * Bea: Formatting and slides (1-)
-    * Elton: Slides ()
-    * Kainen: Slides ()
+    * Bea: Formatting and slides (7-9,12-14)
+    * Elton: Slides (5-6)
+    * Kainen: Slides (10-11)
