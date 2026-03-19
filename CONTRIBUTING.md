@@ -51,12 +51,12 @@ Forecasting involves using statistical formulas to anticipate future data trends
 * Ai.md: Bea, Elton, Kainen
 * Contributions.md: Bea
 * ReadMe.md: Bea
-* Repository Management: Elton(Initialization and version control)
+* Repository Management: Bea
 * Plan of Action Report: 
-    * Bea: Formatting,
-    * Elton: 
+    * Bea: Formatting and Write up
+    * Elton: Discussed Deliverables
     * Kainen:
 * Slide Deck:
-    * Bea: Formatting and slides (7-9,12-14)
-    * Elton: Slides (5-6)
+    * Bea: Formatting(1-3,15,16) and slides (7-9,12-14)
+    * Elton: Slides (4-6)
     * Kainen: Slides (10-11)
