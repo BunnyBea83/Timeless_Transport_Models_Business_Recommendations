@@ -29,20 +29,20 @@
 
 #### Entry 1 — 
 
-**Task:** 
+**Task:** Formatting Plan of Action
 
 **Prompt(s) Used:**
 ```
-
+I requested AI to provide me with a template to build our report off of
 ```
 
 **AI Output Summary:**
-
+AI provided a rough template of the document structure. Including an area for an executive summary, suggestions for tables, and structure for the recommendations section
 
 **Code/Content Adopted:** 
-
+No code was adopted, but the template was used
 **Files Affected:**
-- `AI.MD`
+- `Plan_of_Action_P3.pdf`
 
 **Notes:**
 
